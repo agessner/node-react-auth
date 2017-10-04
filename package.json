@@ -1,0 +1,11 @@
+{
+  "name": "node-react-auth",
+  "version": "1.0.0",
+  "description": "A simple project for learning about auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Airton Gessner",
+  "license": "ISC"
+}
